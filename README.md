@@ -38,7 +38,10 @@ npm run dev
 
 
 # Note
-Make sure the backend project `datacue-backend` is also running in separate terminal.
+Make sure the backend project **[datacue-backend](https://github.com/jillpwork/datacue-backend)** is also running in separate terminal.
 You will have 2 projects running in parallel in 2 separate terminal windows
-	- **datacue-frontend**
-	- **datecue-backend**
+- **datacue-frontend**  
+
+- **datecue-backend**  
+
+To run `datacue-backend` project, follow the steps [here](https://github.com/jillpwork/datacue-backend) 
