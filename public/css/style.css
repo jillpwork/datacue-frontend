@@ -1,0 +1,247 @@
+.unset-margin {
+  margin: unset !important;
+}
+
+/*Login Container*/
+
+.el-date-editor .el-range-separator {
+    width: 10% !important;
+}
+
+.datepicker {
+  text-align: right;
+  margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+  .login-container {
+    line-height: 49px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .login-container {
+    line-height: 49px;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .login-container {
+    line-height: 49px; margin: 20px 70px; width: 72%;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .login-container {
+    line-height: 49px; margin: 20px 100px; width: 72%;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .login-container {
+    line-height: 49px; margin: 20px 100px 100px 186px; width: 72%;
+  }
+}
+/* ================Login Cotainer End===============*/
+
+@media only screen and (min-width: 768px) {
+  .fix-size {
+    height: 950px !important;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .fix-size {
+    height: 950px !important;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .fix-size {
+    height: 950px !important;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .fix-size {
+    height: 950px !important;
+  }
+}
+
+@media only screen and (min-width: 1600px) {
+  .fix-size {
+    height: 950px !important;
+  }
+}
+
+/*Login Right Image*/
+
+
+@media only screen and (max-width: 768px) {
+  .login-right-container {
+    text-align: center;
+    position: absolute;
+    bottom: 40px;
+    left: 30%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .login-right-container {
+    text-align: center;
+    position: absolute;
+    bottom: 40px;
+    left: 20%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .login-right-container {
+    text-align: center;
+    position: absolute;
+    bottom: 40px;
+    left: 20%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .login-right-container {
+    margin: auto auto;text-align: center;
+  }
+}
+
+/*==================Login Right Image==============*/
+
+
+@media only screen and (min-width: 768px) {
+  .login-lg-back {
+    background: url('/images/squares-background.svg') no-repeat;
+    background-size: cover;
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .login-lg-back {
+    background: url('/images/background-with-squares.svg') no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 400px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .login-lg-back {
+    background: url('/images/background-with-squares.svg') no-repeat;
+    background-size: cover;
+    display: flex;
+    height: 350px;
+  }
+}
+
+.signup-link {
+  text-align: right;
+}
+
+@media only screen and (max-width: 768px) {
+  .signup-link {
+    text-align: center;
+  }
+}
+.yellow-link {
+  color: #f3c761;
+}
+
+input {
+  border: 1px solid #ebebeb !important;
+  background:#f9f9f9 !important;
+}
+
+
+/*Plant Left*/
+
+@media only screen and (max-width: 768px) {
+  .plants-left {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .plants-left {
+    width:50px;margin: 25px 0 -63px 0;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .plants-left {
+    width:100px;margin: 0 0 -60px 0;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .plants-left {
+    width:100px;margin: 0 0 -60px 0;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .plants-left {
+    width:150px;margin: 0 0 -60px 0;
+  }
+}
+/*=================Plant Left end==================*/
+
+
+/*Plant right*/
+
+@media only screen and (max-width: 768px) {
+  .plants-right {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .plants-right {
+    float:right;width:50px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .plants-right {
+    float:right;width:100px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .plants-right {
+    float:right;width:100px;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .plants-right {
+    float:right;width:150px;
+  }
+}
+/*=================Plant right end==================*/
+
+/*.plants-right {
+  float:right;width:150px;
+}
+*/
+
+@media only screen and (max-width: 768px) {
+  .btn-login {
+    width: 100%;
+    margin-top: 40px;padding: 5px 30px !important;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .btn-login {
+    margin-top: 40px;padding: 5px 30px !important;
+  }
+}
+
+.show-password {
+  cursor: pointer;
+}
