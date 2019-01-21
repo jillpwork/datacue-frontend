@@ -5,14 +5,17 @@ The dashboard will change random values for every date change. It also maintains
 
 # Project overview
 
-Login and date change randomization:
-![](sample_images/GIF1.gif)
+Login and date change randomization:  
+![](sample_images/GIF1.gif)  
 
-Logout
-![](sample_images/GIF2.gif)
 
-Incorrect login:
-![](sample_images/GIF3.gif)
+Logout  
+![](sample_images/GIF2.gif)  
+
+
+Incorrect login:  
+![](sample_images/GIF3.gif)  
+
 
 
 ## Build Setup
